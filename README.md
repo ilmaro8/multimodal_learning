@@ -8,9 +8,9 @@ Python==3.7.16, albumentations==0.1.8, numpy==1.19.3, pandas==1.3.5, pillow==9.4
 ## Reference
 If you find this repository useful in your research, please cite:
 
-[1] XXX.
+[1] Marini N., Marchesin S. et al., Multimodal representations of biomedical knowledge from limited training whole slide images and reports using deep learning.
 
-Paper link: XXX
+Paper link: https://www.sciencedirect.com/science/article/pii/S1361841524002287
 
 ## Pre-processing
 ### Images
